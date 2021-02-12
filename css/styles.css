@@ -18,7 +18,7 @@ a {
 }
 
 .logo-footer{
-color: var(--white-text);
+    color: var(--white-text);
 }
 
 .nav-link{
@@ -125,14 +125,16 @@ color: var(--white-text);
 
 
 .footer-adress{
+    font-style: normal;
     font-weight: 400;
     font-size: 14px;
     line-height: 1.7;
     letter-spacing: 0.03em;
     color: var(--white-text);
+   
 }
 
-.footer-contacts{
+.footer-adress .footer-contacts{
     font-weight: 400;
     font-size: 14px;
     line-height: 1.7;
